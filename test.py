@@ -1,3 +1,3 @@
 import os
 
-os.listdir(".")
+print(os.path)
