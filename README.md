@@ -1,4 +1,4 @@
-# LockIn Timer
+# Lock In Timer
 
 A simple app that I made which will help me become more productive by blocking distracting websites.
 
